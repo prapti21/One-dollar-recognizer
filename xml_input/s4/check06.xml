@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Gesture AppName="Gestures" AppVer="3.5.0.0" Date="Monday, March 05, 2007" Millseconds="1268" Name="check" NumPts="42" Number="6" Speed="medium" Subject="2" TimeOfDay="9:12:24 PM">
+    <Point T="0" X="179.0" Y="41.0"/>
+    <Point T="0" X="179.0" Y="41.0"/>
+    <Point T="0" X="179.0" Y="41.0"/>
+    <Point T="0" X="180.0" Y="42.0"/>
+    <Point T="0" X="181.0" Y="44.0"/>
+    <Point T="0" X="182.0" Y="46.0"/>
+    <Point T="0" X="183.0" Y="48.0"/>
+    <Point T="0" X="183.0" Y="49.0"/>
+    <Point T="0" X="184.0" Y="50.0"/>
+    <Point T="0" X="184.0" Y="50.0"/>
+    <Point T="0" X="184.0" Y="50.0"/>
+    <Point T="0" X="185.0" Y="51.0"/>
+    <Point T="0" X="185.0" Y="51.0"/>
+    <Point T="0" X="185.0" Y="51.0"/>
+    <Point T="0" X="185.0" Y="51.0"/>
+    <Point T="0" X="185.0" Y="52.0"/>
+    <Point T="0" X="186.0" Y="52.0"/>
+    <Point T="0" X="186.0" Y="52.0"/>
+    <Point T="0" X="186.0" Y="53.0"/>
+    <Point T="0" X="186.0" Y="53.0"/>
+    <Point T="0" X="187.0" Y="53.0"/>
+    <Point T="0" X="187.0" Y="53.0"/>
+    <Point T="0" X="187.0" Y="53.0"/>
+    <Point T="0" X="187.0" Y="53.0"/>
+    <Point T="0" X="188.0" Y="53.0"/>
+    <Point T="0" X="188.0" Y="53.0"/>
+    <Point T="0" X="189.0" Y="53.0"/>
+    <Point T="0" X="189.0" Y="53.0"/>
+    <Point T="0" X="190.0" Y="52.0"/>
+    <Point T="0" X="192.0" Y="50.0"/>
+    <Point T="0" X="195.0" Y="47.0"/>
+    <Point T="0" X="200.0" Y="43.0"/>
+    <Point T="0" X="205.0" Y="39.0"/>
+    <Point T="0" X="211.0" Y="35.0"/>
+    <Point T="0" X="216.0" Y="31.0"/>
+    <Point T="0" X="220.0" Y="29.0"/>
+    <Point T="0" X="222.0" Y="27.0"/>
+    <Point T="0" X="223.0" Y="26.0"/>
+    <Point T="0" X="224.0" Y="26.0"/>
+    <Point T="0" X="223.0" Y="26.0"/>
+    <Point T="0" X="223.0" Y="26.0"/>
+    <Point T="0" X="223.0" Y="26.0"/>
+</Gesture>
